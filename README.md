@@ -8,9 +8,20 @@
 
 ## UI/UX
 
-- UI inspired by Madarsoft color pallette and logo
-- Displays users first (if any) then add new users with FAB
+<table>
+<tr>
+<td>
+
+- UI inspired by Madarsoft color palette and logo
+- Displays users first (if any), then add new users with FAB
 - Lightweight custom app icon
+
+</td>
+<td align="right">
+  <img src="screenshots/madarsoft_logo.png" width="100" alt="Madarsoft Logo"/>
+</td>
+</tr>
+</table>
 
 ## Time Taken
 
