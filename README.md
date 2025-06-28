@@ -14,7 +14,7 @@
 
 ## Time Taken
 
-Total time: **~ 5 hours**
+Total time: ~ 5 hours
 
 ## Screenshots
 
