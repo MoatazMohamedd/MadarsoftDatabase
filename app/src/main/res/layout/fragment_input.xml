@@ -95,7 +95,7 @@
                 android:text="@string/male"
                 android:textColor="?attr/colorOnPrimary"
                 android:textSize="14sp"
-                app:buttonTint="?colorControlActivated" />
+                app:buttonTint="?colorSecondary" />
 
             <com.google.android.material.radiobutton.MaterialRadioButton
                 android:id="@+id/female_button"
@@ -105,7 +105,7 @@
                 android:text="@string/female"
                 android:textColor="?attr/colorOnPrimary"
                 android:textSize="14sp"
-                app:buttonTint="?colorControlActivated" />
+                app:buttonTint="?colorSecondary" />
 
         </RadioGroup>
 
