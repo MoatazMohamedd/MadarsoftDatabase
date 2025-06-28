@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/users">
+    <fragment
+        android:id="@+id/input"
+        android:name="com.moataz.madarsoftdatabase.ui.fragments.input.InputFragment"
+        android:label="Input">
+        <action
+            android:id="@+id/action_input_to_user_fragment"
+            app:destination="@id/users" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/users"
+        android:name="com.moataz.madarsoftdatabase.ui.fragments.display.UsersFragment"
+        android:label="Users" >
+        <action
+            android:id="@+id/action_users_to_input"
+            app:destination="@id/input" />
+    </fragment>
+</navigation>
