@@ -28,5 +28,5 @@ Total time: ~ 5 hours
 ## Tech Stack
 
 - Kotlin
-- Room Database,
+- Room Database
 - Material 3
